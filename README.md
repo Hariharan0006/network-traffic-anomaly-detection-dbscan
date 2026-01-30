@@ -94,25 +94,3 @@ http://127.0.0.1:5000
 
 
 ---
-
-# ✅ WHAT RECRUITERS WILL CLEARLY SEE
-
-✔ Real **business problem**  
-✔ Right **algorithm choice**  
-✔ End-to-end pipeline  
-✔ Deployment skills  
-✔ Visualization & validation  
-✔ Industry-ready documentation  
-
-🔥 This is **NOT a beginner project**.
-
----
-
-## NEXT (Optional – HIGH VALUE)
-If you want, I can now:
-1️⃣ Write **resume bullet points (ATS optimized)**  
-2️⃣ Create **GitHub repo description + topics**  
-3️⃣ Prepare **interview Q&A from this project**  
-4️⃣ Convert this into **Power BI dashboard**  
-
-Just tell me the number 👌
