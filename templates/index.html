@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Network Anomaly Detection</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Network Traffic Anomaly Detection</h1>
+    <p>Upload test data to detect suspicious network activity</p>
+
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="file" required>
+        <button type="submit">Run Detection</button>
+    </form>
+
+    {% if result %}
+    <div class="result">
+        <h2>Results</h2>
+        <p>Total Records: {{ result.rows }}</p>
+        <p>Total Anomalies Detected: {{ result.anomalies }}</p>
+
+        <h3>Visualization</h3>
+        <img src="/static/plots/before.png">
+        <img src="/static/plots/after.png">
+    </div>
+    {% endif %}
+</div>
+
+</body>
+</html>
