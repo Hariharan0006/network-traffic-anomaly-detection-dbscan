@@ -1,5 +1,5 @@
 # 🚨 Network Traffic Anomaly Detection System using DBSCAN
-
+![Recommendation Result](sample_1.png)
 ## 📌 Project Overview
 Modern networks generate massive volumes of traffic, making it difficult for traditional rule-based intrusion detection systems to identify unknown or evolving cyber attacks.  
 This project implements an **unsupervised anomaly detection system** using **DBSCAN** to detect abnormal network behavior without relying on predefined labels.
